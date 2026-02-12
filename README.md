@@ -1,0 +1,2 @@
+# pythonista3_iPhone_storage_sever_build
+iPhoneアプリであるpythonista3を活用してデータサーバーを構築する手順です
