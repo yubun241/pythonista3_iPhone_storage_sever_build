@@ -70,7 +70,7 @@ if __name__ == '__main__':
     port = 8080
     print("="*30)
     print(f"サーバーを起動しました")
-    print(f"会社PCのブラウザで以下を入力してください:")
+    print(f"PCのブラウザで以下を入力してください:")
     print(f"http://{ip_addr}:{port}")
     print("="*30)
     app.run(host='0.0.0.0', port=port, debug=False)
